@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "build": "npx tsc index.ts",
-    "test": "node ./scripts/test-integration.js"
+    "test": "node ./scripts/test-integration.js",
+    "release:major": "./scripts/releases/release-it.sh -v major",
+    "release:minor": "./scripts/releases/release-it.sh -v minor",
+    "release:patch": "./scripts/releases/release-it.sh -v patch"
   },
   "author": "Jason Shin",
   "license": "MIT",
