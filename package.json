@@ -1,6 +1,6 @@
 {
   "name": "machinelearn-node",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "machinelearn.js extra module to enable tfjs-node backend",
   "main": "index.js",
   "scripts": {
