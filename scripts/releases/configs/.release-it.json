@@ -1,6 +1,7 @@
 {
   "preReleaseId": null,
   "pkgFiles": ["package.json"],
+  "buildCommand": "yarn build",
   "use": "git.tag",
   "scripts": {
     "beforeStart": null,
