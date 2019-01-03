@@ -27,7 +27,7 @@
   },
   "npm": {
     "publish": true,
-    "publishPath": "./build/lib",
+    "publishPath": ".",
     "tag": "latest",
     "private": false,
     "access": null
@@ -45,7 +45,7 @@
   "dist": {
     "repo": false,
     "stageDir": ".stage",
-    "baseDir": "dist",
+    "baseDir": ".",
     "files": ["**/*"],
     "pkgFiles": null,
     "commit": false,
