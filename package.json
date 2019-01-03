@@ -3,12 +3,19 @@
   "version": "0.0.0",
   "description": "machinelearn.js extra module to enable tfjs-node backend",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kalimdorjs/machinelearn-node"
+  },
   "scripts": {
     "build": "npx tsc index.ts",
     "test": "node ./scripts/test-integration.js",
     "release:major": "./scripts/releases/release-it.sh -v major",
     "release:minor": "./scripts/releases/release-it.sh -v minor",
     "release:patch": "./scripts/releases/release-it.sh -v patch"
+  },
+  "engines": {
+    "node": ">=8.11.0"
   },
   "author": "Jason Shin",
   "license": "MIT",
