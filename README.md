@@ -29,16 +29,7 @@ Then you should require the package in your project
 require('machinelearn-node');
 ```
 
-# Accelerations
-
-By default, machinelearning.js will use pure Javascript version of tfjs. To enable acceleration
-through C++ binding or GPU, you must
-
-# Highlights
-
-- Machine Learning on the browser and Node.js
-- Learning APIs for users
-- Low entry barrier
+Above will enable C++ acceleration provided by [tfjs-node](https://github.com/tensorflow/tfjs-node)
 
 # Development
 
