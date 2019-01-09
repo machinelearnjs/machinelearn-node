@@ -2,7 +2,7 @@
 
 machinelearn-node module to enable C++ acceleration in the machinelearn.js projects,
 
-[![Build status](https://ci.appveyor.com/api/projects/status/p8vmgdesb9i5h92h?svg=true)](https://ci.appveyor.com/project/JasonShin/machinelearn-node)
+[![Build status](https://ci.appveyor.com/api/projects/status/ak05xjiv1m365428?svg=true)](https://ci.appveyor.com/project/JasonShin/machinelearn-node)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FJasonShin%2Fkalimdorjs.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FJasonShin%2Fkalimdorjs?ref=badge_shield)
 [![Slack](https://slack.bri.im/badge.svg)](https://slack.bri.im)
 
